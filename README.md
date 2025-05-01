@@ -9,7 +9,7 @@ Implementación de un formulario web que permite consultar un usuario en base de
 ### EndPoint de consulta
 
 ```http
-http://localhost:8080/find-user-by-id/
+GET http://localhost:8080/find-user-by-id/
 ```
 
 ### Estructura de la Base de Datos
